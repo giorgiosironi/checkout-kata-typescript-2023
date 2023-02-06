@@ -1,0 +1,11 @@
+{
+  "name": "checkout-kata-typescript-2023",
+  "version": "0.1.0",
+  "description": "Setting up a TypeScript and Node.js project from scratch and implement the checkout kata.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
