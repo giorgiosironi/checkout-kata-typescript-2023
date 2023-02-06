@@ -4,11 +4,13 @@
   "description": "Setting up a TypeScript and Node.js project from scratch and implement the checkout kata.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "MIT",
   "devDependencies": {
+    "jest": "^29.4.1",
+    "ts-node": "^10.9.1",
     "typescript": "^4.9.5"
   }
 }
