@@ -4,6 +4,7 @@
   "description": "Setting up a TypeScript and Node.js project from scratch and implement the checkout kata.",
   "main": "index.js",
   "scripts": {
+    "watch": "tsc --watch --noEmit",
     "test": "jest"
   },
   "author": "",
