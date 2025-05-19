@@ -1,9 +1,4 @@
-test('adds 1 + 2 to equal 3', () => {
-  const result: number = 1 + 2;
-  expect(result).toBe(3);
-});
-
-const price = (goods: string) => 0;
+import { price } from "../src/price";
 
 describe('when there are no items', () => {
   const result = price("");
